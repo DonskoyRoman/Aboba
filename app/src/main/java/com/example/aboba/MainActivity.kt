@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         println("Hello World")
+        println("1231245")
     }
 }
